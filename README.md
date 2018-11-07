@@ -1,4 +1,4 @@
-用代码更新R
+## 用代码更新R
 
 install.packages("installr")
 
